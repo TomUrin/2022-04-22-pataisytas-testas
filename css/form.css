@@ -1,7 +1,8 @@
 .container {
-    width: 80vw;
-    margin-top: 10vh;
-    height: 80vh;
+    width: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 80%;
     margin-left: 10vw;
     background-color: #fff;
     position: relative;
@@ -76,7 +77,7 @@
 
 .bottom-text {
     margin-left: 100px;
-    padding-top: 5px;
+    padding-bottom: 20px;
     font-size: 20px;
     color: #9FE8D4;
 }
